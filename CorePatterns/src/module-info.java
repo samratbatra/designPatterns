@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author samratbatra
+ *
+ */
+module CorePatterns {
+}
